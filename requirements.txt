@@ -1,0 +1,3 @@
+# No external dependencies required for MCP server.
+# JSON-RPC uses stdlib json, SQLite uses stdlib sqlite3.
+# Git tools require git to be installed on the system.
