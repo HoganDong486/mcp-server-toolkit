@@ -85,3 +85,13 @@ MCPServer
 - **JSON-RPC 2.0** — MCP protocol transport
 - **sqlite3** — Built-in database support
 - **Path security** — Tools are sandboxed to `MCP_SAFE_ROOTS`
+
+---
+
+### Part of the Hogan Dong Agent Stack
+
+This project is the **tool belt** in a multi-agent platform:
+
+> **[AgentForge](https://github.com/HoganDong486/agentforge)** can plug this toolkit directly via MCP, giving its agents filesystem, Git, and database access.
+>
+> Also: [Browser MCP](https://github.com/HoganDong486/opencode-browser-mcp) · [RAG Agent](https://github.com/HoganDong486/rag-research-agent) · [Agent Playground](https://github.com/HoganDong486/multi-agent-playground)
