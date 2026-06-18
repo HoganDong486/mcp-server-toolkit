@@ -1,10 +1,7 @@
 """
 Self-profiling and proactive behavior for MCP Server.
 
-Based on B站 community insights:
-- SkillOpt: Skills should measure and improve themselves
-- Proactive Agent: Agent should anticipate needs, not just respond
-- MCP + Skill synergy: MCP provides tools, Skill provides intelligence
+Tracks tool usage patterns and suggests optimizations.
 """
 import time
 import json
